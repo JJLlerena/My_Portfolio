@@ -1,0 +1,15 @@
+Header{
+    background-color: blue;
+    height: 1000px;
+}
+p{
+    height: 1980px;
+    width: 50%;
+    background-color: red;
+}
+
+div{
+    height: 100%;
+    width: 80%;
+    ;
+}
