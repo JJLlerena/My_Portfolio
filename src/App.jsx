@@ -4,11 +4,8 @@ import Header from './Navigation/Navbar';
 
 function App() {
   return (
-    <div>
-      <Header/>
-      <h1>
-        Johnny Llerena Resume
-      </h1>
+    <div className='app'>
+    <Header/>
     </div>
   );
 }
