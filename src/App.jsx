@@ -1,11 +1,17 @@
 import React from 'react';
-import './App.css';
-import Header from './Navigation/Navbar';
-
+import SideNav from './Navigation/Navbar';
+import About from './Components/About';
+import styles from './styles.module.css';
 function App() {
+  const mainStyles = {
+    height: '100vh',
+    width: '100%',
+    display: 'flex',
+  };
   return (
-    <div className='app'>
-    <Header/>
+    <div style={mainStyles}>
+    <SideNav/>
+    <About/>
     </div>
   );
 }
