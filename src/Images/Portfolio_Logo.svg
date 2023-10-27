@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="400" height="500" viewBox="0 0 400 500">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 210px;
+      }
+
+      .cls-2 {
+        fill: #dd5a03;
+      }
+
+      .cls-2, .cls-3 {
+        text-anchor: middle;
+        font-family: "Liberation Mono";
+      }
+
+      .cls-3 {
+        fill: #05cb1c;
+      }
+    </style>
+  </defs>
+  <text x="195" y="318" class="cls-1"><tspan x="195" class="cls-2">J</tspan></text>
+  <text x="204" y="318" class="cls-1"><tspan x="204" class="cls-3">J</tspan></text>
+</svg>
